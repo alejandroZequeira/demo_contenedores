@@ -6,7 +6,7 @@ docker
 ### 1. **Construir las imágenes**
 ```bash
 docker build -t server ./server
-docker build -t plotter ./plotter
+docker build -t plotter ./plt
 docker build -t client ./client
 ```
 
